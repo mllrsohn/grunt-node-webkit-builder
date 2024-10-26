@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.11.1](https://github.com/nwjs/grunt-nw-builder/compare/v4.11.0...v4.11.1) (2024-10-26)
+
+
+### Bug Fixes
+
+* **deps:** bump nw-builder from 4.11.0 to 4.11.4 in the npm group across 1 directory ([#233](https://github.com/nwjs/grunt-nw-builder/issues/233)) ([6d37a93](https://github.com/nwjs/grunt-nw-builder/commit/6d37a9340d286ba685f103fc8f6980b1f70ab7e7))
+
+
+### Chores
+
+* **deps:** bump actions/checkout from 4.1.7 to 4.2.1 in /.github/workflows in the gha group across 1 directory ([#231](https://github.com/nwjs/grunt-nw-builder/issues/231)) ([3bb3fad](https://github.com/nwjs/grunt-nw-builder/commit/3bb3fad944cfe35173ee77c7475a656e6d66575a))
+
 ## [4.11.0](https://github.com/nwjs/grunt-nw-builder/compare/v4.10.0...v4.11.0) (2024-09-25)
 
 
