@@ -39,13 +39,13 @@
     "test": "grunt get && node --test test/test.mjs"
   },
   "dependencies": {
-    "nw-builder": "^4.11.4"
+    "nw-builder": "^4.13.8"
   },
   "peerDependencies": {
     "grunt": "^1.6.1"
   },
   "devDependencies": {
-    "selenium-webdriver": "^4.25.0"
+    "selenium-webdriver": "^4.28.0"
   },
   "packageManager": "npm@10.8.2"
 }
